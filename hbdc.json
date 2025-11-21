@@ -1,0 +1,14 @@
+//此多仓接口为号兵自己使用提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//此网址就是多仓接口
+{
+"storeHouse": [
+{"sourceName":"公子无心","sourceUrl":"https://d.kstore.dev/download/8904/hbdx.json"},
+{"sourceName":"业余仓","sourceUrl":"https://yydf.540734621.xyz/yydf.json"},
+{"sourceName":"七星仓","sourceUrl":"http://qxyc.cc/自用测试"},
+{"sourceName":"青龙仓","sourceUrl":"https://gitee.com/yiwu369/6758/raw/master/2025.json"},
+{"sourceName":"潇洒多仓","sourceUrl":"https://9877.kstore.space/AnotherDS/api.json"},
+{"sourceName":"挺好仓","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
+{"sourceName":"码点仓","sourceUrl":"http://mdxgh.top:5555/dc.json"},
+{"sourceName":"宝盒仓","sourceUrl":"http://mzrjk.top/多仓"},
+{"sourceName":"幸福年年","sourceUrl":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/xfnn.json"}
+]}
