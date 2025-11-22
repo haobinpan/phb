@@ -1,19 +1,11 @@
 //此多仓接口为号兵自己使用提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//此网址就是接口
+//此网址就是接口，251122去除了吾爱、青龙、PG、去除DG音乐，NX音乐，更新了天神接口，增加了莱妮丝接口
 {
     "warningText": "",
     "urls": [
         {
             "url": "https://yydf.540734621.xyz/yydf/yydf/yydf.json",
             "name": "业余"
-        },
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "饭太硬"
-        },
-        {
-            "url": "http://139.196.189.227:5212/f/vlsA/wuai.json",
-            "name": "吾爱"
         },
         {
             "url": "https://欧歌.v.nxog.top/m",
@@ -30,10 +22,6 @@
         {
             "url": "http://枫斗.top/tv",
             "name": "枫TV"
-        },
-        {
-            "url": "http://miqk.cc/小米/DEMO.json",
-            "name": "小米"
         },
         {
             "url": "http://hb.小虎斑.site:25252/仅供测试",
@@ -55,17 +43,9 @@
             "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
             "name": "拾光"
         },
-        {
-            "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-            "name": "青龙"
-        },
          {
             "url": "https://www.252035.xyz/z/FongMi.json",
             "name": "真心"
-        },
-          {
-            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
-            "name": "PG"
         },
         {
             "url": "http://rihou.cc:88/demo.php",
@@ -88,7 +68,7 @@
             "name": "摸鱼"
         },
         {
-            "url": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.json",
+            "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.json",
             "name": "天神"
         },
         {
@@ -128,6 +108,10 @@
             "name": "猫影视"
         },
         {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "莱妮丝"
+        },
+        {
             "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
             "name": "影视仓BOX"
         },
@@ -152,20 +136,24 @@
             "name": "TG音乐"
         },
         {
-            "url": "https://ddzb.fun/dgmusic/api.json",
-            "name": "DG音乐台"
-        },
-        {
-            "url": "https://pz.nxpz.xyz/tgyyc/api.json",
-            "name": "NX音乐"
-        },
-        {
             "url": "http://box.nihaohezi.com/app/hzjy.json",
             "name": "教育专线"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
             "name": "少儿频道"
+        },
+        {
+            "url": "http://fty.888484.xyz/tv",
+            "name": "饭太硬闪退"
+        },
+        {
+            "url": "http://miqk.cc/小米/DEMO.json",
+            "name": "小米闪退"
+        },
+        {
+            "url": "此为无用接口，仅为提示更新日期",
+            "name": "更新日期251122"
         }
     ]
 }
