@@ -1,5 +1,5 @@
 //此多仓接口为号兵自己使用提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//此网址就是接口，251122去除了饭太硬、吾爱、青龙、PG、去除DG音乐，NX音乐，更新了天神接口，增加了莱妮丝接口
+//此网址就是接口，251122去除了饭太硬、吾爱、青龙、DG音乐，NX音乐，更新了天神，南风、小米接口：增加了莱妮丝，免扫4K，集多短剧
 {
     "warningText": "",
     "urls": [
@@ -88,12 +88,16 @@
             "name": "多多"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "南风"
         },
         {
             "url": "https://xn--pppp-wn6lw489o.v.nxog.top/apib.php?id=20",
             "name": "TG"
+        },
+        {
+            "url": "https://github.boki.moe/https://raw.githubusercontent.com/psk107520/p/refs/heads/main/jsm.json",
+            "name": "PG"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -112,12 +116,24 @@
             "name": "莱妮丝"
         },
         {
+            "url": "http://miqk.cc/小米/DEMO.json",
+            "name": "小米"
+        },
+        {
             "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
             "name": "影视仓BOX"
         },
         {
+            "url": "https://kong88.dpdns.org/4k.json",
+            "name": "免扫4K"
+        },
+        {
             "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
-            "name": "短剧"
+            "name": "短剧一"
+        },
+        {
+            "url": "http://jx.3116598.xyz/dj/JD.json",
+            "name": "集多短剧"
         },
         {
             "url": "https://www.yingm.cc/dm/dm.json",
@@ -144,12 +160,8 @@
             "name": "少儿频道"
         },
         {
-            "url": "http://miqk.cc/小米/DEMO.json",
-            "name": "小米闪退"
-        },
-        {
             "url": "此为无用接口，仅为提示更新日期",
-            "name": "更新日期251122"
+            "name": "更新日期251122莫点"
         }
     ]
 }
