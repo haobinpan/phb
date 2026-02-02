@@ -1,0 +1,213 @@
+//所有资源均来自于网络各路大神无私分享.如有侵权.请联系删除。<所有内容仅供测试学习使用，请勿用于违法用途>
+//以下资源不能保证内容的合法性、准确性、完整性和有效性，请根据情况自行判断。
+//仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途。
+//使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
+//所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
+//所有基于本内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本内容没有任何直接或间接的关系，所造成的一切后果亦与本内容和本管理者无关。
+//本管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、转载、发布、修改了本文内容，则视为您已接受此免责声明。否则后果自负。
+//本接口无公众号、无盈利、无引流、免费分享给小白测试和学习使用，请勿轻信他人，谨防上当受骗。<请勿相信视频中广告>
+{
+    "warningText": "皓冰提示:\n📢祝大家馬年幸福 \n📢勿信广告谨防诈骗",
+    "urls": [
+        {
+            "url": "https://gitee.com/formatgame/hb/raw/gzwx/PHBJM.json",
+            "name": "🌍｜皓冰"
+        },
+        {
+            "url": "https://欧歌.v.nxog.top/m",
+            "name": "🎵｜欧歌"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "👨｜潇洒"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🍚｜饭太硬"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "👌｜OK"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🐂｜王二小"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "🐱｜肥猫"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🐟｜摸鱼"
+        },
+        {
+            "url": "http://宝盒接口.top",
+            "name": "口｜宝盒"
+        },
+        {
+            "url": "https://d.kstore.dev/download/14505/天神IY.json",
+            "name": "🈸｜天神"
+        },
+        {
+            "url": "http://年年幸福.icu/tgyg/fgscs.json",
+            "name": "🌹｜幸福年年"
+        },
+        {
+            "url": "http://7337.kstore.space/qxys/禁止传播.json",
+            "name": "✨｜七星"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "🐯｜小虎斑"
+        },
+        {
+            "url": "https://www.cttv.vip/ys/json/ctys.json",
+            "name": "🌳｜刺桐"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🐔巧技"
+        },
+        {
+            "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+            "name": "☀️｜拾光"
+        },
+         {
+            "url": "https://www.252035.xyz/z/FongMi.json",
+            "name": "💗｜真心"
+        },
+        {
+            "url": "http://rihou.cc:88/demo.php",
+            "name": "📚｜vox"
+        },
+        {
+            "url": "http://www.su7.run",
+            "name": "🍍｜菠萝"
+        },
+        {
+            "url": "https://zthaa.top/thzx/th.json",
+            "name": "👌｜挺好"
+        },
+        {
+            "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
+            "name": "🍚｜壹米4K"
+        },
+        {
+            "url": "http://116.196.116.76/tv",
+            "name": "✨｜星河"
+        },
+        {
+            "url": " https://8815.kstore.vip/tvbox/Ace",
+            "name": "🏠｜林中的小屋"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "🆒｜多多"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🌊｜南风"
+        },
+        {
+            "url": "https://xn--pppp-wn6lw489o.v.nxog.top/apib.php?id=20",
+            "name": "🐂🍺｜TG"
+        },
+        {
+            "url": "https://github.boki.moe/https://raw.githubusercontent.com/psk107520/p/refs/heads/main/jsm.json",
+            "name": "🐂🍺｜PG"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "👩｜香雅情"
+        },
+        {
+            "url": "https://www.252035.xyz/p/jsm.json",
+            "name": "🎣｜钓鱼佬"
+        },
+        {
+            "url": "http://www.meowtv.vip/tvbox.json",
+            "name": "🐱｜猫影视"
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "🌶｜莱妮丝"
+        },
+        {
+            "url": "http://miqk.cc/小米/DEMO.json",
+            "name": "🍚｜小米"
+        },
+        {
+            "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
+            "name": "🎬｜影视仓"
+        },
+        {
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/gta6664/gta6664/refs/heads/main/太子爷接口.json",
+            "name": "🔥｜太子爷"
+       },
+        {
+            "url": "https://ym.wya6.cn",
+            "name": "☁️｜无意云4K"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "👨｜俊佬"
+        },
+        {
+            "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+            "name": "🐉｜青龙"
+        },
+        {
+            "url": "http://枫斗.top/tv",
+            "name": "🌳｜枫TV"
+        },
+        {
+            "url": "https://yydf.540734621.xyz/yydf/yydf/yydf.json",
+            "name": 🐂🍺｜业余"
+        },
+        {
+            "url": "https://kong88.dpdns.org/4k.json",
+            "name": "🎬｜免扫4K"  
+        },
+        {
+            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+            "name": "🎬｜短剧频道"
+        },
+        {
+            "url": "https://乐哥.xyz/dj.json",
+            "name": "🎬｜公子短剧"
+        },
+        {
+            "url": "https://盒子迷.top/短剧",
+            "name": "🎬｜盒子短剧"
+        },
+        {
+            "url": "http://jx.3116598.xyz/dj/JD.json",
+            "name": "🎬｜集多短剧"
+        },
+        {
+            "url": "https://www.yingm.cc/dm/dm.json",
+            "name": "♣️｜动漫"
+        },
+        {
+            "url": "http://mzrjk.top/戏曲",
+            "name": "🎵｜戏曲"
+        },
+        {
+            "url": "http://mzrjk.top/音乐",
+            "name": "🎵｜音乐"
+        },
+        {
+            "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+            "name": "🎵｜TG音乐"
+        },
+        {
+            "url": "http://box.nihaohezi.com/app/hzjy.json",
+            "name": "🧒｜教育专线"
+        },
+        {
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+            "name": "🧒｜少儿频道"
+        }
+    ]
+}
